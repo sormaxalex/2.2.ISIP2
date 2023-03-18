@@ -43,5 +43,10 @@ namespace WindowsFormsApp21
                     }
                 }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Program.f2.Show();
+        }
     }
 }

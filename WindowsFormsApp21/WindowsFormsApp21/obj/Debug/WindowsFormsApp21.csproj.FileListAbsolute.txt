@@ -8,3 +8,13 @@ C:\Users\admin\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\Window
 C:\Users\admin\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
 C:\Users\admin\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
+C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form1.resources
+C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
