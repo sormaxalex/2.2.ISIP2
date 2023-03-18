@@ -46,8 +46,7 @@ namespace WindowsFormsApp21
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form2 f2 = new Form2();
-            f2.Show();
+            Program.f2.Show();
         }
     }
 }

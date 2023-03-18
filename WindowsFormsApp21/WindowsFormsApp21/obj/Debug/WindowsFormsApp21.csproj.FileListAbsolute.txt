@@ -18,4 +18,3 @@ C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\ob
 C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
 C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
 C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
-C:\Users\admin\Documents\GitHub\2.2.ISIP2\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form2.resources
